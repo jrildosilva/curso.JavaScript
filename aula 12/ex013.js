@@ -1,7 +1,7 @@
-//var agora = new Date
-//var diaSem = agora.getDay()
-//diaSem = 8
-/*
+var agora = new Date
+var diaSem = agora.getDay()
+diaSem = 8
+
    0 = Domingo
    1 = segunda
    2 = terça
@@ -9,7 +9,7 @@
    4 = quinta
    5 = sexta
    6 = sábado
-*/ 
+
 //console.log(diaSem) 
 // comando no Node.js através Node.js exec ( tecla F8) 
 // resposta: data/ hoje 05/08/21 quinta-feira = 4

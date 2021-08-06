@@ -1,4 +1,4 @@
-/*
+
 var idade = 22
 console.log(`você tem ${idade} anos.`)
 if ( idade < 16) {
@@ -8,4 +8,4 @@ if ( idade < 16) {
 }   else { 
      console.log('voto obrigatório')
 }
-*/
+
