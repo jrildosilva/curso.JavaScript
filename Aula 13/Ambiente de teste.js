@@ -1,8 +1,10 @@
+/*
 var c = 1
 do  {
     console.log(`'tudo bem?' passo ${c} muito bem.`)
     c++ 
 } while ( c <= 6)
+*/
 
 
 
